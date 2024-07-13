@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "First Note and Tutorial/First note.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,9 +61,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#computerscience",
+                "query": "jesus",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "First Note and Tutorial/First note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "First Note and Tutorial/First note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "First Note and Tutorial/First note.md"
               }
             }
           },
@@ -186,12 +186,12 @@
   },
   "active": "500b1b590f397e7e",
   "lastOpenFiles": [
-    "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
     "Readme.md",
-    "Computer Science/Computer Science.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
-    "CSE 220 Java and OOP/assets/Pasted image 20240629161325.png",
     "CSE 220 Java and OOP/CSE 220 Lecture 13 - Exam 2 Review and Inheritance.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
+    "Computer Science/Computer Science.md",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629161325.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240713174753.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240713174658.png",
     "Untitled.canvas",
