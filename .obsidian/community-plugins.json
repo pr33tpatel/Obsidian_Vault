@@ -8,5 +8,6 @@
   "url-into-selection",
   "tag-wrangler",
   "obsidian-tagfolder",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]
