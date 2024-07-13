@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "3f5c2c4c6e2e6627",
+    "type": "split",
+    "children": [
+      {
+        "id": "1362715db11b1764",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6170817043850c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b5ee4053c9d0432",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcd6c3befba4ce33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2e53cd8fe002871",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "2b11d9bbb02a7746",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#computerscience",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22d3e3c891d8c0b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6c34c01e3d68474e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2c06429cadae068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e39107e0246f39c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "962c307b50d02975",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5ee7977b0a68dff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec6798cdd0589809",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md"
+              }
+            }
+          },
+          {
+            "id": "8347898342f0b9e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "fb1c064a429925fb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d6170817043850c6",
+  "lastOpenFiles": [
+    "Computer Science/Computer Science.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629161325.png",
+    "CSE 220 Java and OOP/CSE 220 Lecture 13 - Exam 2 Review and Inheritance.md",
+    "CSE 220 Java and OOP/assets/Pasted image 20240713174753.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240713174658.png",
+    "Untitled.md",
+    "Untitled.canvas",
+    "First Note and Tutorial/First note.md",
+    "CSE 220 Java and OOP/assets/Pasted image 20240709161635.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629172153.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240709161554.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629171310.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629165048.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629164101.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629163141.png",
+    "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
+    "CSE 220 Java and OOP/CSE 220.md",
+    "CSE 220 Java and OOP/assets",
+    "Data Structures and Algorithms/Sliding Window Algorithm.md",
+    "Data Structures and Algorithms/Algorithms.md",
+    "Computer Science",
+    "new file.md",
+    "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
+    "Templates/Course Template.md",
+    "Templates",
+    "CSE 220 Java and OOP",
+    "Learning Vim/Learning vim 1.md",
+    "First Note and Tutorial/Jesus Christ is our Lord and Savior!.md",
+    "Data Structures and Algorithms",
+    "Learning Vim",
+    "First Note and Tutorial",
+    "Journal",
+    "2024-06-20.md",
+    "Untitled 1.canvas"
+  ]
+}
