@@ -6,7 +6,6 @@ Lecture 14: Polymorphism and Sorting
 [[Computer Science]]
 [[CSE 220]]
 
-
 ## Binding
 - Polymorphism means "having many forms"
 - A polymorphic reference is a variable that can refer to different types of objects at different points in time

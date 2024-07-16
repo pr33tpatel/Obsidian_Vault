@@ -82,7 +82,7 @@ Make sure comfortable with:
 #### Comparable interface
 
 - the `Comparable` class can be implemented to provide mechanism to compare objects
-``` Java
+``` java
 if (obj1.compareTo(obj2)  <  0)
 	System.out.println("obj1 is less than obj2");
 ```

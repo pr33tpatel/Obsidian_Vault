@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11d38033d4103c55",
+        "id": "780fd93ca3a5a311",
         "type": "tabs",
         "children": [
           {
-            "id": "4b4c05b467989711",
+            "id": "d5cda97306ae30bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "CSE 220 Java and OOP/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jesus",
+                "query": "poly",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "CSE 220 Java and OOP/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "CSE 220 Java and OOP/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "CSE 220 Java and OOP/Untitled.md"
               }
             }
           },
@@ -148,12 +148,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5af85b0863365354",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,13 +180,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b4c05b467989711",
+  "active": "d5cda97306ae30bd",
   "lastOpenFiles": [
+    "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
+    "CSE 220 Java and OOP/Untitled 1.md",
+    "Readme.md",
+    "CSE 220 Java and OOP/Untitled.md",
+    "Untitled 1.canvas",
+    "CSE 220 Java and OOP/CSE 220 Lecture 13 - Exam 2 Review and Inheritance.md",
+    "CSE 220 Java and OOP/CSE 220.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
     "First Note and Tutorial/First note.md",
-    "Readme.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 13 - Exam 2 Review and Inheritance.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
     "Computer Science/Computer Science.md",
     "CSE 220 Java and OOP/assets/Pasted image 20240629161325.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240713174753.png",
@@ -191,12 +204,11 @@
     "CSE 220 Java and OOP/assets/Pasted image 20240629164101.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629163141.png",
     "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
-    "CSE 220 Java and OOP/CSE 220.md",
     "CSE 220 Java and OOP/assets",
     "Data Structures and Algorithms/Sliding Window Algorithm.md",
     "Data Structures and Algorithms/Algorithms.md",
     "Computer Science",
-    "new file.md",
+    "First Note and Tutorial/new file.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
     "Templates/Course Template.md",
     "Templates",
@@ -207,7 +219,6 @@
     "Learning Vim",
     "First Note and Tutorial",
     "Journal",
-    "2024-06-20.md",
-    "Untitled 1.canvas"
+    "2024-06-20.md"
   ]
 }
