@@ -73,3 +73,13 @@ public static int FibonacciIter(int n) {
 
 #### Maze Traversal
 - See `MazeSearch.java` and `Maze.java`
+
+#### Towers of Hanoi
+- See `SolveTowers.java` and `TowersOfHanoi.java`
+
+#### Tiled Images
+- See `TiledImages.java`
+
+#### Fractals
+- See `KochSnowflake.java` and `KochPane.java`
+
