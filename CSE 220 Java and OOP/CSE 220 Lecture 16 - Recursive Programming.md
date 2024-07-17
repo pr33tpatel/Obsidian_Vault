@@ -82,4 +82,3 @@ public static int FibonacciIter(int n) {
 
 #### Fractals
 - See `KochSnowflake.java` and `KochPane.java`
-
