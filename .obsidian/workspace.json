@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "111673eeb977c3fd",
+        "id": "e36b01bff0add54e",
         "type": "tabs",
         "children": [
           {
-            "id": "53ce01a1cec9c358",
+            "id": "974e9bbf2f791e62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md"
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md"
               }
             }
           },
@@ -181,10 +181,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53ce01a1cec9c358",
+  "active": "974e9bbf2f791e62",
   "lastOpenFiles": [
-    "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
+    "CSE 220 Java and OOP/assets/Pasted image 20240718134211.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240718132036.png",
+    "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
     "CSE 220 Java and OOP/Untitled 1.md",
     "Readme.md",
     "Untitled 1.canvas",
@@ -202,8 +205,6 @@
     "CSE 220 Java and OOP/assets/Pasted image 20240709161554.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629171310.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629165048.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240629164101.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240629163141.png",
     "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
     "CSE 220 Java and OOP/assets",
     "Data Structures and Algorithms/Sliding Window Algorithm.md",
