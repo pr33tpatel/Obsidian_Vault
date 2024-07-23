@@ -58,3 +58,44 @@ public class TestGenericMethod {
 }
 ```
 
+## Queues
+- a queue is a list that adds items only to the rear and removes only from the front
+- **FIFO**: "First in, First out"
+	- Similar to a *queue* in real life (a waiting line at a bank)
+- Enqueue - add item to rear
+- Dequeue - remove item from front
+- isempty - returns true if the queue is empty
+- A queue can represented by a singly linked list
+
+## Stack
+- a stack is list where items are remove only from one end
+- **LIFO**: "Last in, first out"
+	- Similar to a *stack* of plates (ones on the top are added most recently and removed first)
+- See `Queue.java`, `Stack.java`, `QSDriverV1.java`, `QSDriverV2.java`
+
+``` Java
+import java.util.LinkedList;
+pulic class Queue<T> { //using generic data type
+	private LinkedList<T> qlist;
+
+	public Queue() { qlist = new LinkedList<T>(); } //constructor
+	
+	public void enqueue(T newItem) { qlist.addLast(newItem); }
+	public  T dequeue() { return qlist.removeFirst(); }
+	public boolean isEmpty() { return qlist.isempty(); }
+}
+
+```
+
+``` Java
+import java.util.LinkedList;
+public class Stack<T> {
+	private LinkedList<T> qlist;
+
+	public Stack() { qlist = new LinkedList<T>(): }
+
+	public void push(T newItem) { qlist.addFirst(newItem); }
+	public T pop() { return qlist.removeFirst(); }
+	public boolean isEmpty() { return qlist.isempty(); }
+}
+```
