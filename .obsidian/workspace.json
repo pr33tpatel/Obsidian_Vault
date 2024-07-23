@@ -11,8 +11,24 @@
             "id": "b70bb6fe511b1f1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1c13bea2d2cc030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6c34c01e3d68474e",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md"
+              }
             }
           },
           {
@@ -172,10 +193,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e2e53cd8fe002871",
+  "active": "b70bb6fe511b1f1f",
   "lastOpenFiles": [
-    "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
     "CSE 220 Java and OOP/CSE 220.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
