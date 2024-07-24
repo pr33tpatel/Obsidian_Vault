@@ -58,7 +58,7 @@ $$
 
 
 
-check out the new file [[new file]]
+check out the new file [[new file
 
 #markdown-course
 #JesusChristisourLordandSavior

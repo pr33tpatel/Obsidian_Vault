@@ -149,7 +149,7 @@ if (obj1.compareTo(obj2)  <  0)
 - variables can be "shadowed" (declared in both the child and parent class) but is not common to do so
 
 #### Class Hierarchies
-![[Pasted image 20240629172153.png]]
+![[Class Hierarchies img.png]]
 
 #### Object Class
 - all classes are derived from the `Object` class

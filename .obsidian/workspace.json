@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad267a8f289989b6",
+        "id": "81ff3a4c896160f8",
         "type": "tabs",
         "children": [
           {
-            "id": "b70bb6fe511b1f1f",
+            "id": "3e018949a6bf4698",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1c13bea2d2cc030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,10 +181,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b70bb6fe511b1f1f",
+  "active": "3e018949a6bf4698",
   "lastOpenFiles": [
-    "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
+    "CSE 220 Java and OOP/assets/Pasted image 20240709161635.png",
+    "CSE 220 Java and OOP/assets/Class Hierarchies img.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629171310.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629165048.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629164101.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629163141.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629162944.png",
+    "CSE 220 Java and OOP/assets/Pasted image 20240629162927.png",
     "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
+    "First Note and Tutorial/First note.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
     "CSE 220 Java and OOP/CSE 220.md",
@@ -207,17 +204,9 @@
     "Readme.md",
     "Untitled 1.canvas",
     "CSE 220 Java and OOP/CSE 220 Lecture 13 - Exam 2 Review and Inheritance.md",
-    "First Note and Tutorial/First note.md",
     "Computer Science/Computer Science.md",
     "CSE 220 Java and OOP/assets/Pasted image 20240629161325.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240713174753.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240713174658.png",
     "Untitled.canvas",
-    "CSE 220 Java and OOP/assets/Pasted image 20240709161635.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240629172153.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240709161554.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240629171310.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240629165048.png",
     "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
     "CSE 220 Java and OOP/assets",
     "Data Structures and Algorithms/Sliding Window Algorithm.md",

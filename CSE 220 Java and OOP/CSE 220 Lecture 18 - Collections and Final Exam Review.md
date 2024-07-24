@@ -99,3 +99,140 @@ public class Stack<T> {
 	public boolean isEmpty() { return qlist.isempty(); }
 }
 ```
+
+## Final Exam Review
+- Cumulative; make sure you know:**abstraction, encapsulation, inheritance, polymorphism**
+#### Abstraction
+- a software's user should only have access to and be responsible for relevant content
+- if there are different users (customer, admin, etc.), each will have different levels of access
+- Other OOP properties help reinforce abstraction
+	- encapsulation helps isolate users from underlying data and structure
+	- inheritance allows for fine-tuning of class/object selection for specific purposes
+Ex.) Online Medical Records Application:
+- A patient will have access to see only their personal , prescriptions, and financial information
+- A physician will have access to all their patients' data
+- A "Billing Dept" employee may have access to financial information
+- A software developer has access to underlying infrastructure and UI elements
+- **Each role is isolated from each other**
+
+#### Encapsulation
+- Classes and code segments have restricted access to each other to explicitly limit capabilities.
+- Encapsulating underlying data and structure from code that uses them helps readability and reusability
+	- Ex.) If the medical record data changes to include new details, it should be easy to adapt the existing system records
+- Limiting capabilities may seem to make code less "powerful" but in reality, it helps to delegate specific tasks to specific code/classes
+- One object (called the "client") may use another object for the a service
+- The client of an object may call its methods (request service), but it should not be aware of how the service is accomplished
+- Any changes made to the object's state should be made the the object's methods
+	- Mutator and accessor methods
+- The ideology is to make it difficult/impossible for a client to access an object's data directly
+	- in other words, the object should be *self-governing*
+Ex.) Employee Class
+- instance variables like `empID` , `name`, `DOB`, should be kept private
+- A **mutator** method can change the object's attributes
+- An **accessor** method can return the object's attributes 
+
+#### Class Relationships
+- Dependency: class A ***uses*** class B (an object of class B will usually be passed as a parameter to methods of class A)
+	- ex.) an application may ***use*** a File object when saving or loading user options
+- Aggregation: class A ***has-a*** B (an object of class B will be declared a member variable for A)
+	- a company may ***have*** collections (lists, arrays) representing information of employees
+- Inheritance: class A ***is-a*** class B (an object of class A will directly inherit properties from class B using the `extends` keyword), class B still has distinct properties from class A.
+	- an Car ***is-a*** a type of Vehicle
+
+#### Interfaces
+- a Java interface is a collection of *abstract methods* and constants
+- an abstract method is a method header without a body/definition
+- an abstract method can be declared using the `abstract` modifier, but all methods are declared *abstract* by default within an interface so it is usually not included
+- an interface is used to establish a set of methods a class will implement (kinda like a guide)
+- An interface cannot be instantiated
+- methods in an interface have public visibility by default
+- a class formally implements an interface by
+	- using the `implements` keyword
+	- providing implementations for ***every*** abstract method in the interface
+- **if a class declares that it implements an interface, it <b><u>must define all methods</u></b> in the interface**
+	- if a class does not need to use a method from the interface, it can use a "dummy" method but must still define all methods
+
+#### Array and ArrayList
+- an array is a collection of homogenous elements of the same type starting at 0. Arrays have fixed size and can store both primitives and objects
+- an `ArrayList` object is an ordered list of elements. An ArrayList is dynamically sized (can grow and shrink as needed). An ArrayList can only store objects, it cannot store primitives (can use Wrapper classes to store primitives such as Integer for int, Double for double)
+
+#### Inheritance
+- vital to one of the two points of polymorphism (note: Java does not allow multiple inheritance)
+- a `private` variable/method can only be accessed within the class definition
+- a `protected` variable/method can be accessed throughout the directory it was declared in
+- a `public` variable/method can be accessed without restriction
+
+#### Overriding Methods
+- a child class can *override* the definition of a inherited method
+	- the overridden method must have the same signature as the original
+	- methods declared as `final` cannot be overridden
+- variables can be "shadowed" within the child class (declared in both the parent and child class), but is rarely done and should be used with caution
+
+#### Method Overloading
+- Method overloading is the process of giving a single method name multiple definitions
+	- the signature of the methods must be unique and is what distinguishes the methods
+Ex.) `println(...)` is overloaded
+- `prinln(String s)`
+- `println(int i)`
+- `println(double d)`
+
+#### Class Hierarchies
+ ![[Class Hierarchies img.png]]
+
+#### Polymorphism
+- a polymorphic reference is a variable that can refer to different types of objects at different points in time
+- the method called through a polymorphic reference can change from one call to another
+- Ex.) `Occupation myocc;`
+	- this reference can point to any `Occupation` object, **or object of compatible type**
+	- compatibility is determined through inheritance or interfaces
+- Polymorphism via Inheritance:
+``` Java
+Holiday day;
+day = new Holiday();
+//or
+Holiday day;
+day = new NewYears(); //NewYears is a type of Holiday and therefore compatible
+```
+- Polymorphism via Interfaces:
+	- Assume two classes, `Philospher` and `Dog` both implement the interface `Speaker`, providing different versions of the `speak` method
+``` Java
+Speaker guest = new Philospher();
+guest.speak(); //"Hello"
+
+guset  = new Dog();
+guest.speak(); //"Bark"
+```
+
+#### Static Methods and Variables
+- Static methods are not associated with objects, but rather the class itself
+	- `Math.sqrt(...)` is not associated with an object but the `Math` class
+- Static variables are unassociated with any instance. Static variables change everywhere
+	- If a static variable changes within one method, it changes throughout the class and in other methods also
+- Static methods cannot reference instance variables
+- Instance methods can reference static variables
+
+#### Recursion
+- A recursive method is one where it invokes itself
+- a recursive method must have a base case and a recursive case. The base case breaks recursion and without it, it can lead to infinite recursion
+- Each call to the method sets up a new execution environment, with new parameters and local variables
+- Ex.) Factorial function
+	- Base case: $0! = 1$
+	- Recursive case: $n! = n*(n-1)!$
+``` Java
+public static int factorialRec(int num) {
+	if (num == 0) {return 1;}
+	else
+		return num * factorialRec( num - 1);
+}
+```
+- Iteration is the alternative to recursion, usually using looping structures
+
+#### Other/Misc
+- Sorting: the process of arranging elements in a particular order
+- Searching: the process of finding a target element from a search pool
+- Arrays and ArrayLists use bounds checking and will throw exceptions if invalid index is used or trying to access elements out of bounds
+- All classes in Java are derived from the `Object` class by default, and inherit the `equals()` and `toString()` methods
+- Abstract classes cannot be instantiated but provide skeletal frameworks
+- `super` references the parent class and is used to invoke the constructor of another method
+- any class can implement the `Comparable` interface to provide a mechanism for comparing objects of that type
+- a class implements the `Iterator` interface to guarantee processing of elements and using the `next()` and `hasNext()` methods
