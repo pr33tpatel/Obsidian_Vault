@@ -100,6 +100,7 @@ public class Stack<T> {
 }
 ```
 
+_______
 ## Final Exam Review
 - Cumulative; make sure you know:**abstraction, encapsulation, inheritance, polymorphism**
 #### Abstraction
