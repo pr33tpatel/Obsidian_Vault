@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aafec942cd726f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures and Algorithms/Pointers and Memory Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6c34c01e3d68474e",
@@ -194,8 +183,8 @@
   },
   "active": "6f3dedfdf489ae5d",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Pointers and Memory Management.md",
     "Data Structures and Algorithms/Linked Lists.md",
+    "Data Structures and Algorithms/Pointers and Memory Management.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
     "Data Structures and Algorithms/Data Structures and Algorithms.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
