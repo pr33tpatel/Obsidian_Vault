@@ -197,7 +197,7 @@ day = new NewYears(); //NewYears is a type of Holiday and therefore compatible
 - Polymorphism via Interfaces:
 	- Assume two classes, `Philospher` and `Dog` both implement the interface `Speaker`, providing different versions of the `speak` method
 ``` Java
-Speaker guest = new Philospher();
+Speaker guest = new Philospoher();
 guest.speak(); //"Hello"
 
 guset  = new Dog();

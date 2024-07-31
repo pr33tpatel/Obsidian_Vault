@@ -1,7 +1,7 @@
 Preet Patel
 6/22/2024 - 4:08 PM
 #algorithm
-[[Algorithms]]
+[[Data Structures and Algorithms]]
 [[Computer Science]]
 
 - Works on continuous elements of an array
