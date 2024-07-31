@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f3dedfdf489ae5d",
+            "id": "450f14e59cc41d3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#algorithm",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,8 +182,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f3dedfdf489ae5d",
+  "active": "450f14e59cc41d3a",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
     "Data Structures and Algorithms/Linked Lists.md",
     "Data Structures and Algorithms/Pointers and Memory Management.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
@@ -224,7 +226,6 @@
     "Templates/Course Template.md",
     "Templates",
     "CSE 220 Java and OOP",
-    "Learning Vim/Learning vim 1.md",
     "Data Structures and Algorithms",
     "Learning Vim",
     "First Note and Tutorial",
