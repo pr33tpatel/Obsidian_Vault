@@ -52,8 +52,83 @@ int main() {
 	second->next = third;
 	third->next = NULL;
 
-	printList(head); //only pass head node to enter list b/c its linked to others
+	//functions
+	printList(head);//only pass head node to enter list b/c its linked to others
+	insertAtFront(&head, -1); //pass memory of head node and value of new node
+	insertAtEnd(&head, 4); //pass memory of head node and value of new node
+	insertAfter(head, -1); //pass pointer to insert after and value of new node
+	insertAfter(second, -2);  //pass pointer to insert after and value of new node
+	printList(head); 
 
 	return 0;
+}
+```
+
+#### Inserting at Front of Linked List
+``` c++
+void insertAtFront(Node** head, int newValue) {
+// 1.) Prepare a new node
+	Node* newNode = new Node();
+	newNode->value = newValue; 
+	
+// 2.) Put it in front of current head
+	newNode->next = *head;
+	
+// 3.) Reassign head to point to newNode
+	*head = newNode;
+}
+```
+#### Inserting at End of Linked List
+``` c++
+void insertAtEnd(Node** head, int newValue) {
+// 1.) Prepare a new node
+	Node* newNode = new Node();
+	newNode->value = newValue;
+	newNode->next = NULL; //will point to "NULL" because it is going to be last node
+
+// 2.) If Linked list is empty, newNode will be head node
+	if (*head == NULL) {
+		*head = newNode;
+		return;
+	}
+	
+// 3.) Traverse to last node. If a node points to "NULL", we are at current last node
+	Node* last = *head; //initally start at head node and traverse through list
+	while (last->next != NULL) {
+		last = last->next; //change value of last to the next node
+	}
+	
+// 4.) Insert newNode after current last node. By now, we are at end of linked list
+	last->next = newNode; //next value of current last node is our newNode
+}
+```
+#### Inserting in Middle of Linked List
+``` c++
+void insertAfter(Node* previous, int newValue) {
+// 1.) Check if previous node is NULL. Previous cannot be a NULL node
+	if (previous == NULL) {
+		cout << "Previous cannot be NULL";
+		return;
+	}
+	
+// 2.) Prepare a newNode
+	Node* newNode = new Node();
+	newNode->value = newValue;
+
+// 3.) Insert newNode after previous element
+	newNode->next = previous->next; 
+	previous->next = newNode;
+	
+	/*make sure you first set the newNode->next to what previous was pointing to   
+	 and then you make previous->next point to newNode. If you change 
+	previous->next to newNode first, then you will sever the connection to the
+	node after newNode. 
+	basically,
+	do: A --> B, newNode --> B, A --> newNode
+		result: A --> newNode --> B
+	
+	don't do: A --> B, A --> newNode, **now you cannot newNode to B because only A was 
+	connected to be and that connection is lost**
+	*/ 
 }
 ```
