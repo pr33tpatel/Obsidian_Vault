@@ -15,7 +15,7 @@ Self-Study 2:
 - a linked list is used to implement a stack or queue
 
 #### Insertion and Deletion
-- the advantage of linked lists is that you insert elements in constant O(1) time.
+- the advantage of linked lists is that you insert and remove elements in constant O(1) time.
 - Insertions are done by connecting the previous node to and the next node to the element to be inserted.
 	- compared to an array or vector structure were all the elements would have be shifted when inserting an element.
 - Deletions can be by connecting one node to another node while "skipping" over another node. The node skipped over is not linked to any node and then it not a part of the linked list
@@ -23,19 +23,10 @@ Self-Study 2:
 ## Implementation
 ``` c++
 class Node {
-public:
-	int value;
-	Node* next;
+	public:
+		int value; // the value each node will store, in this case, an integer
+		Node* next;// a pointer which directs us to the next node in list
 };
-
-void printList(Node* n) {
-	while(n != NULL) {
-		cout << n->value << endl;
-		n = n->next;
-	}
-	cout << "All elements printed" << endl;
-}
-
 int main() {
 	//create nodes
 	Node* head = new Node(); //allocate space for head node
@@ -64,6 +55,16 @@ int main() {
 }
 ```
 
+#### Printing a Linked List
+``` c++
+void printList(Node* n) {
+	while(n != NULL) {
+		cout << n->value << endl;
+		n = n->next;
+	}
+	cout << "All elements printed" << endl;
+}
+```
 #### Inserting at Front of Linked List
 ``` c++
 void insertAtFront(Node** head, int newValue) {

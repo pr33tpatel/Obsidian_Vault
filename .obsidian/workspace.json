@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7936312644afdd43",
+        "id": "84bdc559fb471f97",
         "type": "tabs",
         "children": [
           {
-            "id": "607a6340864b90e0",
+            "id": "1201a3e005e52246",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Linked Lists.md",
+                "file": "Data Structures and Algorithms/Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Linked Lists.md",
+                "file": "Data Structures and Algorithms/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Linked Lists.md",
+                "file": "Data Structures and Algorithms/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Linked Lists.md"
+                "file": "Data Structures and Algorithms/Stack.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "607a6340864b90e0",
+  "active": "1201a3e005e52246",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Stack.md",
     "Data Structures and Algorithms/Linked Lists.md",
     "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
     "Data Structures and Algorithms/Pointers and Memory Management.md",
@@ -222,7 +223,6 @@
     "Computer Science",
     "First Note and Tutorial/new file.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
-    "Templates/Course Template.md",
     "Templates",
     "CSE 220 Java and OOP",
     "Data Structures and Algorithms",
