@@ -4,7 +4,7 @@ Topic: Map/Dictionary
 Self-Study: 4
 #algorithm 
 [[Computer Science]]
-[[Data Structures and Algorithms]]
+Data Structures and Algorithms]]
 
 ## Map / Dictionary
 - Called Map in c++, called Dictionary in Python, Java, etc.

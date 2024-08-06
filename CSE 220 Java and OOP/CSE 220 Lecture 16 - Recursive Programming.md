@@ -4,7 +4,7 @@ Course: CSE 220 Java and Object Oriented Programming
 Lecture 16 - Recursive Programming
 #cse220 
 [[Computer Science]]
-[[CSE 220]]
+CSE 220]]
 
 ## Recursive Programming
 #### Sum of $0 \text{ to }N$

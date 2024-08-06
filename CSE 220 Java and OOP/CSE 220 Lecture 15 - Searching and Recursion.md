@@ -5,7 +5,7 @@ Lecture 15: Searching and Recursion
 
 #cse220 
 [[Computer Science]]
-[[CSE 220]]
+CSE 220]]
 ## <u>Searching</u>
 - Searching is the process of finding a target element
 #### Linear Search

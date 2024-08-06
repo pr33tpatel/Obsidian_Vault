@@ -4,7 +4,7 @@ Course: CSE 220: Java and Object Oriented Programming
 Lecture 18: Collections and Final Exam Review
 #cse220 
 [[Computer Science]]
-[[CSE 220]]
+CSE 220]]
 
 ## Generics
 - A class can be defined to operate on a generic data type which is specified when the class is instantiated:

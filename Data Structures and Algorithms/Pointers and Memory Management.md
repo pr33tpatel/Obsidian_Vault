@@ -4,7 +4,7 @@ Topic: Pointers and Memory Management
 Self-Study: 1
 
 #algorithm 
-[[Data Structures and Algorithms]]
+Data Structures and Algorithms]]
 [[Computer Science]]
 
 ## Dynamic Memory Allocation

@@ -4,7 +4,7 @@ Course: CSE 220 Java and Object Oriented Programming
 Lecture 14: Polymorphism and Sorting
 #cse220 
 [[Computer Science]]
-[[CSE 220]]
+CSE 220]]
 
 ## Binding
 - Polymorphism means "having many forms"

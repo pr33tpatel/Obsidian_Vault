@@ -3,7 +3,7 @@ CSE 220: Java and Object Oriented Programming
 06-25-2024, 3:25 PM
 Lecture 12
 
-[[CSE 220]]
+CSE 220]]
 [[Computer Science]]
 #cse220
 

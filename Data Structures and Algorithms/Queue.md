@@ -4,7 +4,7 @@ Topic: Queue
 Self-Study: 4
 #algorithm 
 [[Computer Science]]
-[[Data Structures and Algorithms]]
+Data Structures and Algorithms]]
 
 ## Queue
 - **FIFO** - "First In, First Out"

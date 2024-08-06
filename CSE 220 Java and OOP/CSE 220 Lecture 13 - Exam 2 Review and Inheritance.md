@@ -3,7 +3,7 @@ CSE 220: Java and Object Oriented Programming
 06-29-2024, 4:01 PM
 Lecture 13: Exam 2 Review and Inheritance
 
-[[CSE 220]]
+CSE 220]]
 [[Computer Science]]
 #cse220
 

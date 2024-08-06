@@ -4,7 +4,7 @@ Topic: Stack
 Self-Study: 3
 #algorithm 
 [[Computer Science]]
-[[Data Structures and Algorithms]]
+Data Structures and Algorithms]]
 
 ## Stack
 - **LIFO** - "Last in, First out"

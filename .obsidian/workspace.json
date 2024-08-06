@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Map (Dictionary).md",
+                "file": "Data Structures and Algorithms/Pointers and Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6c34c01e3d68474e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Map (Dictionary).md",
+                "file": "Data Structures and Algorithms/Pointers and Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Map (Dictionary).md",
+                "file": "Data Structures and Algorithms/Pointers and Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Map (Dictionary).md"
+                "file": "Data Structures and Algorithms/Pointers and Memory Management.md"
               }
             }
           },
@@ -183,16 +182,22 @@
   },
   "active": "1201a3e005e52246",
   "lastOpenFiles": [
+    "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 13 - Exam 2 Review and Inheritance.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
+    "Data Structures and Algorithms/Data Structures and Algorithms.md",
+    "Data Structures and Algorithms/Sliding Window Algorithm.md",
+    "Data Structures and Algorithms/Pointers and Memory Management.md",
+    "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
+    "Data Structures and Algorithms/Linked Lists.md",
+    "Data Structures and Algorithms/Stack.md",
     "Data Structures and Algorithms/Queue.md",
     "Data Structures and Algorithms/Map (Dictionary).md",
-    "Data Structures and Algorithms/Stack.md",
     "Untitled.md",
-    "Data Structures and Algorithms/Linked Lists.md",
-    "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
-    "Data Structures and Algorithms/Pointers and Memory Management.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
-    "Data Structures and Algorithms/Data Structures and Algorithms.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
     "Untitled 5.md",
     "Untitled 1.md",
     "Untitled 2.md",
@@ -209,19 +214,13 @@
     "CSE 220 Java and OOP/assets/Pasted image 20240629162944.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629162927.png",
     "First Note and Tutorial/First note.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
     "CSE 220 Java and OOP/CSE 220.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
     "CSE 220 Java and OOP/assets/Pasted image 20240718134211.png",
     "CSE 220 Java and OOP/Untitled 1.md",
     "Readme.md",
     "Untitled 1.canvas",
-    "CSE 220 Java and OOP/CSE 220 Lecture 13 - Exam 2 Review and Inheritance.md",
     "Computer Science/Computer Science.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
     "CSE 220 Java and OOP/assets",
-    "Data Structures and Algorithms/Sliding Window Algorithm.md",
     "Computer Science",
     "Templates",
     "CSE 220 Java and OOP",

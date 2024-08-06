@@ -4,7 +4,7 @@ Topic: Linked Lists
 Self-Study 2:
 #algorithm 
 [[Computer Science]]
-[[Data Structures and Algorithms]]
+Data Structures and Algorithms]]
 
 ## Linked Lists
 - Linked lists consists of nodes

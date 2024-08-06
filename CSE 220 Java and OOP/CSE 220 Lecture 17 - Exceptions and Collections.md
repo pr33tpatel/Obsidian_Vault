@@ -5,7 +5,7 @@ Lecture 17: Exceptions and Collections
 
 #cse220 
 [[Computer Science]]
-[[CSE 220]]
+CSE 220]]
 
 ## Exception Handling
 - Exceptions are objects that describe an unusual situation
