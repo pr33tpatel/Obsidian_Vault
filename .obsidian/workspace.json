@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Stack.md",
+                "file": "Data Structures and Algorithms/Map (Dictionary).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Stack.md",
+                "file": "Data Structures and Algorithms/Map (Dictionary).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Stack.md",
+                "file": "Data Structures and Algorithms/Map (Dictionary).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Stack.md"
+                "file": "Data Structures and Algorithms/Map (Dictionary).md"
               }
             }
           },
@@ -183,7 +183,10 @@
   },
   "active": "1201a3e005e52246",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Queue.md",
+    "Data Structures and Algorithms/Map (Dictionary).md",
     "Data Structures and Algorithms/Stack.md",
+    "Untitled.md",
     "Data Structures and Algorithms/Linked Lists.md",
     "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
     "Data Structures and Algorithms/Pointers and Memory Management.md",
@@ -191,7 +194,6 @@
     "Data Structures and Algorithms/Data Structures and Algorithms.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
     "Untitled 5.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled 4.md",
@@ -221,8 +223,6 @@
     "CSE 220 Java and OOP/assets",
     "Data Structures and Algorithms/Sliding Window Algorithm.md",
     "Computer Science",
-    "First Note and Tutorial/new file.md",
-    "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
     "Templates",
     "CSE 220 Java and OOP",
     "Data Structures and Algorithms",
