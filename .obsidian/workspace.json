@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd68c80651dd2572",
+        "id": "f0ac50b963253f48",
         "type": "tabs",
         "children": [
           {
-            "id": "5311ca83366d9fc1",
+            "id": "2a9e2fab403eb6d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Trees.md",
+                "file": "Data Structures and Algorithms/Tree Traversal (DFS and BFS).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6c34c01e3d68474e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Trees.md",
+                "file": "Data Structures and Algorithms/Tree Traversal (DFS and BFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Trees.md",
+                "file": "Data Structures and Algorithms/Tree Traversal (DFS and BFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Trees.md"
+                "file": "Data Structures and Algorithms/Tree Traversal (DFS and BFS).md"
               }
             }
           },
@@ -180,11 +181,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5311ca83366d9fc1",
+  "active": "2a9e2fab403eb6d2",
   "lastOpenFiles": [
-    "2024-08-08.md",
+    "Data Structures and Algorithms/Breath First Search (BFS).md",
+    "Data Structures and Algorithms/Tree Traversal (DFS and BFS).md",
     "Data Structures and Algorithms/Trees.md",
-    "Data Structures and Algorithms/Depth First Search (DFS).md",
+    "2024-08-08.md",
     "Data Structures and Algorithms/Stack.md",
     "Data Structures and Algorithms/Map (Dictionary).md",
     "Data Structures and Algorithms/Linked Lists.md",
@@ -217,7 +219,6 @@
     "CSE 220 Java and OOP/assets/Pasted image 20240629162944.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629162927.png",
     "First Note and Tutorial/First note.md",
-    "CSE 220 Java and OOP/CSE 220.md",
     "CSE 220 Java and OOP/assets/Pasted image 20240718134211.png",
     "Untitled 1.canvas",
     "CSE 220 Java and OOP/assets",
