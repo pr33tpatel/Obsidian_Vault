@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84bdc559fb471f97",
+        "id": "fd68c80651dd2572",
         "type": "tabs",
         "children": [
           {
-            "id": "1201a3e005e52246",
+            "id": "5311ca83366d9fc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Pointers and Memory Management.md",
+                "file": "Data Structures and Algorithms/Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Pointers and Memory Management.md",
+                "file": "Data Structures and Algorithms/Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Pointers and Memory Management.md",
+                "file": "Data Structures and Algorithms/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Pointers and Memory Management.md"
+                "file": "Data Structures and Algorithms/Trees.md"
               }
             }
           },
@@ -180,8 +180,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1201a3e005e52246",
+  "active": "5311ca83366d9fc1",
   "lastOpenFiles": [
+    "2024-08-08.md",
+    "Data Structures and Algorithms/Trees.md",
+    "Data Structures and Algorithms/Depth First Search (DFS).md",
+    "Data Structures and Algorithms/Stack.md",
+    "Data Structures and Algorithms/Map (Dictionary).md",
+    "Data Structures and Algorithms/Linked Lists.md",
+    "Data Structures and Algorithms/Pointers and Memory Management.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
@@ -191,12 +198,8 @@
     "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
     "Data Structures and Algorithms/Data Structures and Algorithms.md",
     "Data Structures and Algorithms/Sliding Window Algorithm.md",
-    "Data Structures and Algorithms/Pointers and Memory Management.md",
     "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
-    "Data Structures and Algorithms/Linked Lists.md",
-    "Data Structures and Algorithms/Stack.md",
     "Data Structures and Algorithms/Queue.md",
-    "Data Structures and Algorithms/Map (Dictionary).md",
     "Untitled.md",
     "Untitled 5.md",
     "Untitled 1.md",
@@ -216,10 +219,7 @@
     "First Note and Tutorial/First note.md",
     "CSE 220 Java and OOP/CSE 220.md",
     "CSE 220 Java and OOP/assets/Pasted image 20240718134211.png",
-    "CSE 220 Java and OOP/Untitled 1.md",
-    "Readme.md",
     "Untitled 1.canvas",
-    "Computer Science/Computer Science.md",
     "CSE 220 Java and OOP/assets",
     "Computer Science",
     "Templates",
