@@ -1,5 +1,5 @@
 Preet Patel
-Topic: Tree Traversal (DFS and BFS)
+Topic: Depth First Search Tree Traversal
 08-08-2024, 8:00 PM
 Self-Study: 5
 #algorithm 

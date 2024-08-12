@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ac50b963253f48",
+        "id": "ceb870f047256c18",
         "type": "tabs",
         "children": [
           {
-            "id": "2a9e2fab403eb6d2",
+            "id": "b846b5d29e069966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Tree Traversal (DFS and BFS).md",
+                "file": "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Tree Traversal (DFS and BFS).md",
+                "file": "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Tree Traversal (DFS and BFS).md",
+                "file": "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Tree Traversal (DFS and BFS).md"
+                "file": "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md"
               }
             }
           },
@@ -181,11 +181,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a9e2fab403eb6d2",
+  "active": "b846b5d29e069966",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Breath First Search (BFS).md",
-    "Data Structures and Algorithms/Tree Traversal (DFS and BFS).md",
+    "Data Structures and Algorithms/C++ STL Library.md",
+    "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md",
+    "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md",
+    "Data Structures and Algorithms/Depth First Search Tree Traversal.md",
+    "2024-08-10.md",
     "Data Structures and Algorithms/Trees.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Data Structures and Algorithms/Breath First Search (BFS).md",
     "2024-08-08.md",
     "Data Structures and Algorithms/Stack.md",
     "Data Structures and Algorithms/Map (Dictionary).md",
@@ -202,14 +208,10 @@
     "Data Structures and Algorithms/Sliding Window Algorithm.md",
     "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
     "Data Structures and Algorithms/Queue.md",
-    "Untitled.md",
     "Untitled 5.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
     "CSE 220 Java and OOP/assets/Pasted image 20240713174753.png",
-    "Untitled.canvas",
     "CSE 220 Java and OOP/assets/Pasted image 20240709161635.png",
     "CSE 220 Java and OOP/assets/Class Hierarchies img.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629171310.png",
@@ -218,9 +220,7 @@
     "CSE 220 Java and OOP/assets/Pasted image 20240629163141.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629162944.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629162927.png",
-    "First Note and Tutorial/First note.md",
     "CSE 220 Java and OOP/assets/Pasted image 20240718134211.png",
-    "Untitled 1.canvas",
     "CSE 220 Java and OOP/assets",
     "Computer Science",
     "Templates",
