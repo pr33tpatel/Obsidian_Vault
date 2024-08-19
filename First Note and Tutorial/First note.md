@@ -60,7 +60,7 @@ $$
 
 check out the new file [[new file
 
-#markdown-course
-#JesusChristisourLordandSavior
+"#"markdown-course
+"#"JesusChristisourLordandSavior
 
 this is a change for testing
