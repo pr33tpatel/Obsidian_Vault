@@ -4,6 +4,8 @@ Course: CSE 510 Computer Design
 Lecture 1: 1.2 Digital Circuit Design
 #computerdesign
 [[Computer Science]]
+[[Electrical Engineering]]
+
 
 ## Part A: Overview of Digital Circuit Design
 #### Definitions and Acronyms
@@ -61,7 +63,7 @@ Custom ASIC Methods:
 Most, if not all, of these technologies include digital ASIC 
 
 ----------------
-## Part B: Digital IC Content in a Cellphone
+## Part B: Digital IC Content in a Devices
 - 8 digital ICs in a 2004 Motorola cell phone
 #### iPhone Costs and Terminology
 - COGS - "Cost of Goods Sold"
@@ -84,7 +86,7 @@ graph LR;
     idPhase --> idFilter[Analog Loop Filter]
     idFilter --> idVoltage(Voltage Control Oscillator)
     idVoltage --> idOut[Out]
-    idVoltage --> idFreq[Frequency Divider]
+    idVoltage o--> idFreq[Frequency Divider]
     idFreq --> idPhase
 ```
 ![[Pasted image 20240819160223.png]]
@@ -101,3 +103,77 @@ contains 4 Custom Digital ICs
 - SiST I/O IC
 - ATI Graphics $\mu$P (microprocessor)
 - IBM CPU
+
+----
+## IC Design Flow
+**4 Major Design Steps:**
+1. Simulation
+2. Layout
+3. Fabrication
+4. Testing
+![[Pasted image 20240819180751.png]]
+If the circuit does not meet the specs, you can rectify the approach by:
+1. Use a different approach
+2. Use a different process
+3. Relax the specs/constraints
+#### Parasitics in IC Design
+1. Substrate capacitance (Csub), happens in a parallel-plate capacitor
+2. Co-planar capacitance (Ccop)
+3. Package capacitance (Cpkg)
+4. PCB capacitance (Cpcb)
+![[Pasted image 20240819182016.png]]
+- 90 nm process refers to the size of the smallest component, which in most cases is the gate of a transistor. 
+
+#### Parallel-Plate Capacitor
+![[Pasted image 20240819184951.png]]
+- Parallel-Plate Capacitance: $C = \epsilon_{o}\epsilon_{r} \times plate \text { } area \ (L\times W)$
+- 
+	- $\epsilon_{o}$ : permittivity of vacuum = $8.854 \times 10^{-18} \, \frac{{F}}{\mu{m}}$ $\Leftarrow$ Farads per micrometer
+	- $\epsilon_{r}$ : relative permittivity of material (silicon): $Si = 11.9 \approx 12$
+
+$$
+\begin{align*}
+Csub = \frac{8.85 \times 10^{-18} \, \frac{{F}}{\mu{m}}\, \times 12 \times 10000 \mu{m} \times 0.09\mu{m}}{250\mu{m}}
+\end{align*}
+$$
+$$
+\begin{align*}
+=379\space {a}{F} &= 0.379\space {f}F\\
+a &= atto, 10^{-18}\\
+f &= femto, 10^{-15}
+\end{align*}
+$$
+#### Co-planar Capacitance
+![[Pasted image 20240819185537.png]]
+- if $d \ge{100} \Rightarrow ignore$
+$$
+\begin{align*}\\
+C_{cop}=\frac{\epsilon_{r}\epsilon_{o}\space L\times W}{d}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+C_{cop} = \frac{3.9 \times 8.85 \times 10^{-18} \, \frac{{F}}{\mu{m}}\, \times 12 \times 1000 \times 0.09}{0.09}
+\end{align*}
+$$
+$$
+\begin{align*}\\
+=34.5\space{f}F\space=34.5\times10^{-15}F
+\end{align*}
+$$
+$$
+\begin{align*}\\\\
+C_{total}=C_{cop}+C_{sub}
+\end{align*}
+$$
+#### Printed Circuit Board
+- for PCBs, we use a material called *FR4* with a $\epsilon_{r}=3.7$
+- $C_{total \space out} = C_{pkg1}+C_{pcb}+C{pkg2}+C_{pkg3}$
+How to reduce parasitics:
+1.  Layout Fix: 
+	- reduce both Csub and Ccop by reducing trace lengths
+	- Increase d for Ccop
+2. Use a higher performance process - tradeoff is more cost
+3. Increase current drive - tradeoff is more power
+4. Review and change specs (last option)
