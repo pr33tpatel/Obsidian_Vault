@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
+                "file": "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
+                "file": "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
+                "file": "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md"
+                "file": "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md"
               }
             }
           },
@@ -184,19 +183,24 @@
   },
   "active": "4b81c14be683b211",
   "lastOpenFiles": [
+    "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
+    "CSE 510 Computer Design/assets/Pasted image 20240819160347.png",
+    "CSE 510 Computer Design/assets/Pasted image 20240819160223.png",
+    "CSE 510 Computer Design/assets",
+    "Data Structures and Algorithms/Doubly Linked Lists.md",
     "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
+    "Untitled.canvas",
+    "CSE 510 Computer Design",
     "First Note and Tutorial/First note.md",
     "Templates/Course Template.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior!.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
-    "Data Structures and Algorithms/Doubly Linked Lists.md",
     "CSE 335 Database",
     "Data Structures and Algorithms/C++ STL Library.md",
     "Data Structures and Algorithms/Trees.md",
     "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md",
     "Data Structures and Algorithms/Depth First Search Tree Traversal.md",
     "2024-08-10.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Data Structures and Algorithms/Breath First Search (BFS).md",
     "2024-08-08.md",
@@ -211,8 +215,6 @@
     "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 13 - Exam 2 Review and Inheritance.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 18 - Collections and Final Exam Review.md",
-    "Data Structures and Algorithms/Data Structures and Algorithms.md",
-    "Data Structures and Algorithms/Sliding Window Algorithm.md",
     "CSE 220 Java and OOP/assets/Pasted image 20240713174753.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240709161635.png",
     "CSE 220 Java and OOP/assets/Class Hierarchies img.png",
@@ -221,15 +223,12 @@
     "CSE 220 Java and OOP/assets/Pasted image 20240629164101.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629163141.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629162944.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240629162927.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240718134211.png",
     "CSE 220 Java and OOP/assets",
     "Computer Science",
     "Templates",
     "CSE 220 Java and OOP",
     "Data Structures and Algorithms",
     "Learning Vim",
-    "First Note and Tutorial",
-    "Journal"
+    "First Note and Tutorial"
   ]
 }
