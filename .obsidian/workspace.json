@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md"
+                "file": "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md"
               }
             }
           },
@@ -183,27 +183,31 @@
   },
   "active": "4b81c14be683b211",
   "lastOpenFiles": [
+    "CSE 335 Database/assets/Pasted image 20240821113548.png",
+    "CSE 335 Database/assets",
+    "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
+    "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
+    "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
+    "Data Structures and Algorithms/C++ STL Library.md",
+    "Data Structures and Algorithms/Data Structures and Algorithms.md",
+    "Data Structures and Algorithms/Doubly Linked Lists.md",
+    "Graph View Stuff/Electrical Engineering.md",
+    "Graph View Stuff/Computer Science.md",
     "CSE 510 Computer Design/assets/Pasted image 20240819185537.png",
     "CSE 510 Computer Design/assets/Pasted image 20240819184951.png",
     "First Note and Tutorial/First note.md",
-    "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
-    "Graph View Stuff/Electrical Engineering.md",
-    "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
-    "Graph View Stuff/Computer Science.md",
     "Untitled",
     "CSE 510 Computer Design/assets/Pasted image 20240819182016.png",
     "CSE 510 Computer Design/assets/Pasted image 20240819180751.png",
     "CSE 510 Computer Design/assets/Pasted image 20240819160347.png",
     "CSE 510 Computer Design/assets/Pasted image 20240819160223.png",
     "CSE 510 Computer Design/assets",
-    "Data Structures and Algorithms/Doubly Linked Lists.md",
     "Untitled.canvas",
     "CSE 510 Computer Design",
     "Templates/Course Template.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior!.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
     "CSE 335 Database",
-    "Data Structures and Algorithms/C++ STL Library.md",
     "Data Structures and Algorithms/Trees.md",
     "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md",
     "Data Structures and Algorithms/Depth First Search Tree Traversal.md",
@@ -218,18 +222,14 @@
     "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 15 - Searching and Recursion.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 14 - Polymorphism and Sorting.md",
     "CSE 220 Java and OOP/assets/Pasted image 20240713174753.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240709161635.png",
     "CSE 220 Java and OOP/assets/Class Hierarchies img.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240629171310.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240629165048.png",
     "CSE 220 Java and OOP/assets",
     "Graph View Stuff",
     "Templates",
     "CSE 220 Java and OOP",
-    "Data Structures and Algorithms",
-    "Learning Vim"
+    "Data Structures and Algorithms"
   ]
 }

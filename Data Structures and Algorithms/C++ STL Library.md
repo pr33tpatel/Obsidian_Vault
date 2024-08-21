@@ -95,7 +95,7 @@ void explainVector()  {
     vector<int> v1(5); //{0, 0, 0, 0, 0} -> container of 5 instaces of "0" or "NULL" based on compiler
     
     vector<int> v2(5,20); //{20, 20, 20, 20, 20};
-    vector<int> v3(v1); //{20, 20, 20, 20, 20} ->a copy of v1 but not the same vector, different memory
+    vector<int> v3(v2); //{20, 20, 20, 20, 20} ->a copy of v1 but not the same vector, different memory
 
     v2.push_back(1);
     cout << endl;
