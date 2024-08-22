@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md"
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md"
               }
             }
           },
@@ -183,10 +183,12 @@
   },
   "active": "4b81c14be683b211",
   "lastOpenFiles": [
-    "CSE 335 Database/assets/Pasted image 20240821113548.png",
-    "CSE 335 Database/assets",
+    "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md",
     "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
     "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
+    "CSE 412 Embedded Sysem",
+    "CSE 335 Database/assets/Pasted image 20240821113548.png",
+    "CSE 335 Database/assets",
     "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
     "Data Structures and Algorithms/C++ STL Library.md",
     "Data Structures and Algorithms/Data Structures and Algorithms.md",
@@ -196,7 +198,6 @@
     "CSE 510 Computer Design/assets/Pasted image 20240819185537.png",
     "CSE 510 Computer Design/assets/Pasted image 20240819184951.png",
     "First Note and Tutorial/First note.md",
-    "Untitled",
     "CSE 510 Computer Design/assets/Pasted image 20240819182016.png",
     "CSE 510 Computer Design/assets/Pasted image 20240819180751.png",
     "CSE 510 Computer Design/assets/Pasted image 20240819160347.png",
@@ -225,7 +226,6 @@
     "CSE 220 Java and OOP/assets/Pasted image 20240713174753.png",
     "CSE 220 Java and OOP/assets/Pasted image 20240709161635.png",
     "CSE 220 Java and OOP/assets/Class Hierarchies img.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240629171310.png",
     "CSE 220 Java and OOP/assets",
     "Graph View Stuff",
     "Templates",
