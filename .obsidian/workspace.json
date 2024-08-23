@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 3 - Relational Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 3 - Relational Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 3 - Relational Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md"
+                "file": "CSE 335 Database/CSE 335 Lecture 3 - Relational Models.md"
               }
             }
           },
@@ -183,9 +183,13 @@
   },
   "active": "4b81c14be683b211",
   "lastOpenFiles": [
-    "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md",
-    "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
+    "CSE 335 Database/assets/Pasted image 20240823112920.png",
+    "CSE 335 Database/CSE 335 Lecture 3 - Relational Models.md",
+    "CSE 335 Database/assets/Pasted image 20240823111637.png",
+    "CSE 335 Database/assets/Pasted image 20240823111550.png",
     "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
+    "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
+    "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md",
     "CSE 412 Embedded Sysem",
     "CSE 335 Database/assets/Pasted image 20240821113548.png",
     "CSE 335 Database/assets",
@@ -221,11 +225,7 @@
     "Data Structures and Algorithms/Linked Lists.md",
     "Data Structures and Algorithms/Pointers and Memory Management.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 16 - Recursive Programming.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
     "CSE 220 Java and OOP/assets/Pasted image 20240713174753.png",
-    "CSE 220 Java and OOP/assets/Pasted image 20240709161635.png",
-    "CSE 220 Java and OOP/assets/Class Hierarchies img.png",
     "CSE 220 Java and OOP/assets",
     "Graph View Stuff",
     "Templates",
