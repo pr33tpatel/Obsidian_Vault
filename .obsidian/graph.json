@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 150674
       }
+    },
+    {
+      "query": "tag:#math  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
   "collapse-display": true,
