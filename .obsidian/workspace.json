@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 4 - Special Relationships in ER Diagrams.md",
+                "file": "Data Structures and Algorithms/CSE 302 8-26-2024 PAL Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 4 - Special Relationships in ER Diagrams.md",
+                "file": "Data Structures and Algorithms/CSE 302 8-26-2024 PAL Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 4 - Special Relationships in ER Diagrams.md",
+                "file": "Data Structures and Algorithms/CSE 302 8-26-2024 PAL Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 4 - Special Relationships in ER Diagrams.md"
+                "file": "Data Structures and Algorithms/CSE 302 8-26-2024 PAL Session.md"
               }
             }
           },
@@ -183,6 +183,11 @@
   },
   "active": "f27ac5101addd425",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/assets/CSE 302_ Review Worksheet 8_26.pdf",
+    "Data Structures and Algorithms/assets",
+    "Data Structures and Algorithms/Doubly Linked Lists.md",
+    "Data Structures and Algorithms/CSE 302 8-26-2024 PAL Session.md",
+    "Data Structures and Algorithms/C++ STL Library.md",
     "CSE 335 Database/CSE 335 Lecture 4 - Special Relationships in ER Diagrams.md",
     "CSE 335 Database/CSE 335 Lecture 3 - Relational Models.md",
     "CSE 335 Database/assets/Pasted image 20240826111802.png",
@@ -192,7 +197,6 @@
     "Graph View Stuff/Computer Science.md",
     "Graph View Stuff/Electrical Engineering.md",
     "Untitled",
-    "Data Structures and Algorithms/Doubly Linked Lists.md",
     "CSE 335 Database/assets/Pasted image 20240823112920.png",
     "CSE 335 Database/assets/Pasted image 20240823111637.png",
     "CSE 335 Database/assets/Pasted image 20240823111550.png",
@@ -202,7 +206,6 @@
     "CSE 412 Embedded Sysem",
     "CSE 335 Database/assets/Pasted image 20240821113548.png",
     "CSE 335 Database/assets",
-    "Data Structures and Algorithms/C++ STL Library.md",
     "Data Structures and Algorithms/Data Structures and Algorithms.md",
     "CSE 510 Computer Design/assets/Pasted image 20240819185537.png",
     "CSE 510 Computer Design/assets/Pasted image 20240819184951.png",
@@ -225,10 +228,8 @@
     "Data Structures and Algorithms/Breath First Search (BFS).md",
     "2024-08-08.md",
     "Data Structures and Algorithms/Stack.md",
-    "Data Structures and Algorithms/Map (Dictionary).md",
     "CSE 220 Java and OOP/assets",
     "Graph View Stuff",
-    "Templates",
-    "CSE 220 Java and OOP"
+    "Templates"
   ]
 }
