@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project X Overview.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6c34c01e3d68474e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project X Overview.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project X Overview.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project X Overview.md"
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md"
               }
             }
           },
@@ -182,6 +183,9 @@
   },
   "active": "3ed8faa16af5741b",
   "lastOpenFiles": [
+    "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
+    "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
     "Project X Overview.md",
     "Project X",
     "Data Structures and Algorithms/CSE 302 8-26-2024 PAL Session.md",
@@ -225,9 +229,6 @@
     "Data Structures and Algorithms/Depth First Search Tree Traversal.md",
     "2024-08-10.md",
     "Untitled 1.canvas",
-    "Data Structures and Algorithms/Breath First Search (BFS).md",
-    "2024-08-08.md",
-    "Data Structures and Algorithms/Stack.md",
     "CSE 220 Java and OOP/assets",
     "Graph View Stuff"
   ]
