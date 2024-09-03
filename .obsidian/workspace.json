@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36fce40ed9b0290f",
+        "id": "6c2fbee3c800d594",
         "type": "tabs",
         "children": [
           {
-            "id": "3ed8faa16af5741b",
+            "id": "8f6bba6c2ffd1f4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md"
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md"
               }
             }
           },
@@ -181,14 +181,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ed8faa16af5741b",
+  "active": "8f6bba6c2ffd1f4a",
   "lastOpenFiles": [
+    "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
+    "Data Structures and Algorithms/CSE 302 8-26-2024 PAL Session.md",
+    "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
+    "Data Structures and Algorithms/CSE 302 8-28-2024 PAL Session 4.md",
+    "Resume Template.md",
+    "8-25-2024 Problem of The Fortnight UofL.md",
+    "CSE 335 Database/CSE 335 Lecture 5 - Functional Dependencies.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
     "Project X Overview.md",
     "Project X",
-    "Data Structures and Algorithms/CSE 302 8-26-2024 PAL Session.md",
     "Data Structures and Algorithms/assets/CSE 302_ Review Worksheet 8_26.pdf",
     "Data Structures and Algorithms/assets",
     "Data Structures and Algorithms/Doubly Linked Lists.md",
@@ -197,8 +203,6 @@
     "CSE 335 Database/CSE 335 Lecture 3 - Relational Models.md",
     "CSE 335 Database/assets/Pasted image 20240826111802.png",
     "Graph View Stuff/Math.md",
-    "8-25-2024 Problem of The Fortnight UofL.md",
-    "CSE 510 Computer Design/CSE 510 Computer Design - 1.2 Digital Circuit Design.md",
     "Graph View Stuff/Computer Science.md",
     "Graph View Stuff/Electrical Engineering.md",
     "CSE 335 Database/assets/Pasted image 20240823112920.png",
@@ -211,23 +215,19 @@
     "CSE 335 Database/assets/Pasted image 20240821113548.png",
     "CSE 335 Database/assets",
     "Data Structures and Algorithms/Data Structures and Algorithms.md",
-    "CSE 510 Computer Design/assets/Pasted image 20240819185537.png",
-    "CSE 510 Computer Design/assets/Pasted image 20240819184951.png",
+    "ECE 510 Computer Design/assets/Pasted image 20240819185537.png",
+    "ECE 510 Computer Design/assets/Pasted image 20240819184951.png",
     "First Note and Tutorial/First note.md",
-    "CSE 510 Computer Design/assets/Pasted image 20240819182016.png",
-    "CSE 510 Computer Design/assets/Pasted image 20240819180751.png",
-    "CSE 510 Computer Design/assets/Pasted image 20240819160347.png",
-    "CSE 510 Computer Design/assets",
+    "ECE 510 Computer Design/assets/Pasted image 20240819182016.png",
+    "ECE 510 Computer Design/assets/Pasted image 20240819180751.png",
+    "ECE 510 Computer Design/assets/Pasted image 20240819160347.png",
+    "ECE 510 Computer Design/assets",
     "Untitled.canvas",
-    "CSE 510 Computer Design",
+    "ECE 510 Computer Design",
     "Templates/Course Template.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior!.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
     "CSE 335 Database",
-    "Data Structures and Algorithms/Trees.md",
-    "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md",
-    "Data Structures and Algorithms/Depth First Search Tree Traversal.md",
-    "2024-08-10.md",
     "Untitled 1.canvas",
     "CSE 220 Java and OOP/assets",
     "Graph View Stuff"

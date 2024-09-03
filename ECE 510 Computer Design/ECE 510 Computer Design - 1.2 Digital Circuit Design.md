@@ -1,5 +1,5 @@
 Preet Patel
-Course: CSE 510 Computer Design
+Course: ECE 510 Computer Design
 08-19-2024, 2:58 PM
 Lecture 1: 1.2 Digital Circuit Design
 #computerdesign

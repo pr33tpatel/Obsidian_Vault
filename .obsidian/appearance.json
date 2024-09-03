@@ -6,5 +6,6 @@
   "monospaceFontFamily": "Menlo,CaskaydiaMono Nerd Font Mono",
   "enabledCssSnippets": [
     "mermaidCenter"
-  ]
+  ],
+  "baseFontSize": 15
 }
