@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c2fbee3c800d594",
+        "id": "b008921b02c2e690",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6bba6c2ffd1f4a",
+            "id": "3b423cc441cebdae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 6 Normal Forms.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 6 Normal Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 6 Normal Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md"
+                "file": "CSE 335 Database/CSE 335 Lecture 6 Normal Forms.md"
               }
             }
           },
@@ -181,8 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f6bba6c2ffd1f4a",
+  "active": "3b423cc441cebdae",
   "lastOpenFiles": [
+    "CSE 335 Database/CSE 335 Lecture 6 Normal Forms.md",
+    "CSE 335 Database/assets/Pasted image 20240904110918.png",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
     "Data Structures and Algorithms/CSE 302 8-26-2024 PAL Session.md",
     "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
@@ -220,13 +222,10 @@
     "First Note and Tutorial/First note.md",
     "ECE 510 Computer Design/assets/Pasted image 20240819182016.png",
     "ECE 510 Computer Design/assets/Pasted image 20240819180751.png",
-    "ECE 510 Computer Design/assets/Pasted image 20240819160347.png",
     "ECE 510 Computer Design/assets",
     "Untitled.canvas",
     "ECE 510 Computer Design",
     "Templates/Course Template.md",
-    "First Note and Tutorial/Jesus Christ is our Lord and Savior!.md",
-    "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
     "CSE 335 Database",
     "Untitled 1.canvas",
     "CSE 220 Java and OOP/assets",
