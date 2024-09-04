@@ -35,7 +35,6 @@ A table is in First Normal Form (1NF) if:
 1. It has a primary key
 2. All columns contain only atomic (invisible) values
 3. There are not repeating groups or arrays
-
 #### Second Normal Form
 - It must already by in First Normal Form
 - No partial dependencies
