@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Linked Lists.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6c34c01e3d68474e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Linked Lists.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Linked Lists.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Linked Lists.md"
+                "file": "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md"
               }
             }
           },
@@ -182,17 +183,19 @@
   },
   "active": "4665d0c4536355a3",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
+    "CSE 302 Data Structures/CSE 302 8-28-2024 PAL Session 4.md",
+    "CSE 302 Data Structures/CSE 302 8-26-2024 PAL Session.md",
     "CSE 302 Data Structures/CSE 302 9-4-2024 PAL Session 6.md",
+    "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
+    "Data Structures and Algorithms/Linked Lists.md",
+    "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
     "8-25-2024 Problem of The Fortnight UofL.md",
     "2024-09-04.md",
     "CSE 302 Data Structures",
     "CSE 335 Database/CSE 335 Lecture 6 Normal Forms.md",
     "CSE 335 Database/assets/Pasted image 20240904110918.png",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
-    "CSE 302 Data Structures/CSE 302 8-26-2024 PAL Session.md",
     "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
-    "CSE 302 Data Structures/CSE 302 8-28-2024 PAL Session 4.md",
     "Resume Template.md",
     "CSE 335 Database/CSE 335 Lecture 5 - Functional Dependencies.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
@@ -215,11 +218,9 @@
     "CSE 335 Database/assets/Pasted image 20240823111550.png",
     "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
     "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
-    "CSE 412 Embedded Sysem/CSE 412 Lecture 1 - Numbers and Arithmetic.md",
     "CSE 412 Embedded Sysem",
     "CSE 335 Database/assets/Pasted image 20240821113548.png",
     "CSE 335 Database/assets",
-    "Data Structures and Algorithms/Data Structures and Algorithms.md",
     "ECE 510 Computer Design/assets/Pasted image 20240819185537.png",
     "ECE 510 Computer Design/assets/Pasted image 20240819184951.png",
     "ECE 510 Computer Design/assets/Pasted image 20240819182016.png",
