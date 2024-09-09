@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9667bb3db7956306",
+        "id": "04f572bfe29cc2da",
         "type": "tabs",
         "children": [
           {
-            "id": "4665d0c4536355a3",
+            "id": "5e46dab68d624b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 7 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 7 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 7 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md"
+                "file": "CSE 335 Database/CSE 335 Lecture 7 -.md"
               }
             }
           },
@@ -181,23 +181,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4665d0c4536355a3",
+  "active": "5e46dab68d624b00",
   "lastOpenFiles": [
+    "CSE 335 Database/CSE 335 Lecture 7 -.md",
+    "CSE 335 Database/CSE 335 Lecture 6 - Normal Forms.md",
+    "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
+    "CSE 335 Database/CSE 335 Lecture 5 - Functional Dependencies.md",
+    "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
     "CSE 302 Data Structures/CSE 302 8-28-2024 PAL Session 4.md",
     "CSE 302 Data Structures/CSE 302 8-26-2024 PAL Session.md",
     "CSE 302 Data Structures/CSE 302 9-4-2024 PAL Session 6.md",
-    "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
     "Data Structures and Algorithms/Linked Lists.md",
     "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
     "8-25-2024 Problem of The Fortnight UofL.md",
     "2024-09-04.md",
     "CSE 302 Data Structures",
-    "CSE 335 Database/CSE 335 Lecture 6 Normal Forms.md",
     "CSE 335 Database/assets/Pasted image 20240904110918.png",
-    "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
     "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
     "Resume Template.md",
-    "CSE 335 Database/CSE 335 Lecture 5 - Functional Dependencies.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
@@ -217,7 +218,6 @@
     "CSE 335 Database/assets/Pasted image 20240823111637.png",
     "CSE 335 Database/assets/Pasted image 20240823111550.png",
     "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
-    "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
     "CSE 412 Embedded Sysem",
     "CSE 335 Database/assets/Pasted image 20240821113548.png",
     "CSE 335 Database/assets",
