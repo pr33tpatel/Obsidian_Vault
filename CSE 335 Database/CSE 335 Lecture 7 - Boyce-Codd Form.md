@@ -1,7 +1,7 @@
 Preet Patel
 Course: CSE 335 - Database
 09-09-2024, 11:05 AM
-Lecture 7:
+Lecture 7: Boyce-Codd Form
 #database 
 [[Computer Science]]
 
