@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "81d37741a46675b8",
+        "id": "e8f3b1e992c840ad",
         "type": "tabs",
         "children": [
           {
-            "id": "7b4a1b7edefb9f12",
+            "id": "1b354a3925c863b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f5f55b3d2cfde3d",
+            "id": "4852187d2b7f8b09",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6c34c01e3d68474e",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md"
+                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md"
               }
             }
           },
@@ -189,13 +188,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2e53cd8fe002871",
+  "active": "1b354a3925c863b6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-11 11.08.18.excalidraw.md",
+    "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
+    "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
+    "Data Structures and Algorithms/C++ STL Library.md",
+    "CSE 302 Data Structures/CSE 302 9-11-2024 PAL Session 9.md",
+    "Excalidraw/cse302 queue.md",
     "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
+    "Excalidraw/cse302 stack.md",
+    "Excalidraw/Drawing 2024-09-11 15.16.52.excalidraw.md",
+    "CSE 302 Data Structures/CSE 302 9-9-2024 PAL Session 8.md",
+    "Excalidraw/Drawing 2024-09-11 11.08.18.excalidraw.md",
     "Excalidraw",
     "CSE 335 Database/CSE 335 Lecture 7 - Boyce-Codd Form.md",
-    "CSE 302 Data Structures/CSE 302 9-9-2024 PAL Session 8.md",
     "CSE 302 Data Structures/assets/CSE 302_ Review Worksheet 9_9.pdf",
     "CSE 302 Data Structures/assets",
     "CSE 302 Data Structures/CSE 302 8-26-2024 PAL Session.md",
@@ -203,7 +209,6 @@
     "CSE 302 Data Structures/CSE 302 8-28-2024 PAL Session 4.md",
     "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
     "CSE 335 Database/CSE 335 Lecture 6 - Normal Forms.md",
-    "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
     "CSE 335 Database/CSE 335 Lecture 5 - Functional Dependencies.md",
     "Data Structures and Algorithms/Linked Lists.md",
     "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
@@ -216,16 +221,10 @@
     "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
-    "Project X Overview.md",
     "Project X",
     "Data Structures and Algorithms/assets/CSE 302_ Review Worksheet 8_26.pdf",
     "Data Structures and Algorithms/assets",
-    "Data Structures and Algorithms/Doubly Linked Lists.md",
-    "Data Structures and Algorithms/C++ STL Library.md",
-    "CSE 335 Database/CSE 335 Lecture 4 - Special Relationships in ER Diagrams.md",
-    "CSE 335 Database/CSE 335 Lecture 3 - Relational Models.md",
     "CSE 335 Database/assets/Pasted image 20240826111802.png",
-    "Graph View Stuff/Math.md",
     "CSE 335 Database/assets/Pasted image 20240823112920.png",
     "CSE 335 Database/assets/Pasted image 20240823111637.png",
     "CSE 335 Database/assets/Pasted image 20240823111550.png",
