@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e8f3b1e992c840ad",
+        "id": "150fb2c55cb287a3",
         "type": "tabs",
         "children": [
           {
-            "id": "1b354a3925c863b6",
+            "id": "1fdf72708830af63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-13-2024 PAL Session 10.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4852187d2b7f8b09",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -77,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6c34c01e3d68474e",
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-13-2024 PAL Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-13-2024 PAL Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md"
+                "file": "CSE 302 Data Structures/CSE 302 9-13-2024 PAL Session 10.md"
               }
             }
           },
@@ -188,12 +181,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b354a3925c863b6",
+  "active": "1fdf72708830af63",
   "lastOpenFiles": [
+    "CSE 302 Data Structures/CSE 302 9-11-2024 PAL Session 9.md",
+    "CSE 302 Data Structures/CSE 302 9-13-2024 PAL Session 10.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
     "Data Structures and Algorithms/C++ STL Library.md",
-    "CSE 302 Data Structures/CSE 302 9-11-2024 PAL Session 9.md",
     "Excalidraw/cse302 queue.md",
     "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
     "Excalidraw/cse302 stack.md",
@@ -220,7 +214,6 @@
     "Resume Template.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
     "CSE 220 Java and OOP/CSE 220 Lecture 17 - Exceptions and Collections.md",
-    "CSE 220 Java and OOP/CSE 220 Lecture 12 - Inheritance.md",
     "Project X",
     "Data Structures and Algorithms/assets/CSE 302_ Review Worksheet 8_26.pdf",
     "Data Structures and Algorithms/assets",
