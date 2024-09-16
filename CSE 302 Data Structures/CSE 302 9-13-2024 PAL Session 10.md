@@ -17,7 +17,6 @@ Lecture: 10
 #### 3. Analysis of Solution
 - Feasible answer?
 - Big $O$ notation analysis
-
 #### 4.  
 - Look into all edge cases
 - Try to minimize errors
