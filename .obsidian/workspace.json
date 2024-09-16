@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "167f9e7d0041d30d",
+        "id": "0df46c5247c493b2",
         "type": "tabs",
         "children": [
           {
-            "id": "815433805cf5b427",
+            "id": "4376cfb3975c7191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 9 - Web and Database Integration.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "104b981d03ca7473",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 9 - Web and Database Integration.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 9 - Web and Database Integration.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 9 - Web and Database Integration.md"
+                "file": "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md"
               }
             }
           },
@@ -189,12 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "815433805cf5b427",
+  "active": "4376cfb3975c7191",
   "lastOpenFiles": [
-    "CSE 335 Database/CSE 335 Lecture 9 - Web and Database Integration.md",
-    "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
+    "CSE 302 Data Structures/assets/cse 302_ review worksheet 9_16_93.pdf",
     "CSE 302 Data Structures/CSE 302 9-13-2024 PAL Session 10.md",
     "CSE 302 Data Structures/CSE 302 9-11-2024 PAL Session 9.md",
+    "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
+    "CSE 335 Database/CSE 335 Lecture 9 - Web and Database Integration.md",
+    "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
     "Data Structures and Algorithms/C++ STL Library.md",
@@ -220,8 +214,6 @@
     "CSE 302 Data Structures",
     "CSE 335 Database/assets/Pasted image 20240904110918.png",
     "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
-    "Resume Template.md",
-    "CSE 412 Embedded Sysem/CSE 412 Lecture 2 - Number Operations and Assembly Programming.md",
     "Project X",
     "Data Structures and Algorithms/assets/CSE 302_ Review Worksheet 8_26.pdf",
     "Data Structures and Algorithms/assets",

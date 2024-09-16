@@ -2,6 +2,8 @@ Preet Patel
 Course: CSE 302 PAL
 09-13-2024, 3:17 PM
 Lecture: 10
+#algorithm 
+[[Computer Science]]
 
 ## Software Development
 #### 1. Requirement Analysis
