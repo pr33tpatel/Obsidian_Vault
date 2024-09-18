@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0df46c5247c493b2",
+        "id": "a0fc40aaa0726b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "4376cfb3975c7191",
+            "id": "194fe82bd41c0837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad4d4d923cf203fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
+                "file": "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md"
+                "file": "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md"
               }
             }
           },
@@ -181,15 +194,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4376cfb3975c7191",
+  "active": "ad4d4d923cf203fe",
   "lastOpenFiles": [
+    "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
+    "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
+    "CSE 335 Database/CSE 335 Lecture 10 - Intro to SQL.md",
+    "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
+    "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
+    "First Note and Tutorial/Jesus Christ is our Lord and Savior!.md",
+    "CSE 412 Embedded Sysem/CSE 412 Lecture 7 - Subroutines and Stack.md",
+    "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
     "CSE 302 Data Structures/assets/cse 302_ review worksheet 9_16_93.pdf",
     "CSE 302 Data Structures/CSE 302 9-13-2024 PAL Session 10.md",
     "CSE 302 Data Structures/CSE 302 9-11-2024 PAL Session 9.md",
-    "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
     "CSE 335 Database/CSE 335 Lecture 9 - Web and Database Integration.md",
     "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
-    "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
     "Data Structures and Algorithms/C++ STL Library.md",
     "Excalidraw/cse302 queue.md",
@@ -207,13 +226,8 @@
     "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
     "CSE 335 Database/CSE 335 Lecture 6 - Normal Forms.md",
     "CSE 335 Database/CSE 335 Lecture 5 - Functional Dependencies.md",
-    "Data Structures and Algorithms/Linked Lists.md",
-    "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
-    "8-25-2024 Problem of The Fortnight UofL.md",
-    "2024-09-04.md",
     "CSE 302 Data Structures",
     "CSE 335 Database/assets/Pasted image 20240904110918.png",
-    "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
     "Project X",
     "Data Structures and Algorithms/assets/CSE 302_ Review Worksheet 8_26.pdf",
     "Data Structures and Algorithms/assets",
@@ -228,7 +242,6 @@
     "ECE 510 Computer Design/assets/Pasted image 20240819184951.png",
     "ECE 510 Computer Design/assets/Pasted image 20240819182016.png",
     "ECE 510 Computer Design/assets/Pasted image 20240819180751.png",
-    "ECE 510 Computer Design/assets",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
