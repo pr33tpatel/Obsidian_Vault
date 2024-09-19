@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fa34eac44262314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8-25-2024 Problem of The Fortnight UofL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c69a155a5362cad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/cse302 stack.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6c34c01e3d68474e",
@@ -99,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
+                "file": "8-25-2024 Problem of The Fortnight UofL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
+                "file": "8-25-2024 Problem of The Fortnight UofL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md"
+                "file": "8-25-2024 Problem of The Fortnight UofL.md"
               }
             }
           },
@@ -194,27 +215,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad4d4d923cf203fe",
+  "active": "6fa34eac44262314",
   "lastOpenFiles": [
-    "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
-    "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
-    "CSE 335 Database/CSE 335 Lecture 10 - Intro to SQL.md",
-    "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
+    "Excalidraw/cse302 queue.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior!.md",
+    "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
+    "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
+    "CSE 302 Data Structures/CSE 302 9-11-2024 PAL Session 9.md",
+    "CSE 302 Data Structures/CSE 302 9-9-2024 PAL Session 8.md",
+    "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
+    "Excalidraw/cse302 stack.md",
+    "CSE 302 Data Structures/CSE 302 9-13-2024 PAL Session 10.md",
+    "CSE 335 Database/CSE 335 Lecture 10 - Intro to SQL.md",
+    "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 7 - Subroutines and Stack.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
     "CSE 302 Data Structures/assets/cse 302_ review worksheet 9_16_93.pdf",
-    "CSE 302 Data Structures/CSE 302 9-13-2024 PAL Session 10.md",
-    "CSE 302 Data Structures/CSE 302 9-11-2024 PAL Session 9.md",
     "CSE 335 Database/CSE 335 Lecture 9 - Web and Database Integration.md",
     "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
     "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
     "Data Structures and Algorithms/C++ STL Library.md",
-    "Excalidraw/cse302 queue.md",
-    "Excalidraw/cse302 stack.md",
     "Excalidraw/Drawing 2024-09-11 15.16.52.excalidraw.md",
-    "CSE 302 Data Structures/CSE 302 9-9-2024 PAL Session 8.md",
     "Excalidraw/Drawing 2024-09-11 11.08.18.excalidraw.md",
     "Excalidraw",
     "CSE 335 Database/CSE 335 Lecture 7 - Boyce-Codd Form.md",
@@ -223,7 +245,6 @@
     "CSE 302 Data Structures/CSE 302 8-26-2024 PAL Session.md",
     "CSE 302 Data Structures/CSE 302 9-4-2024 PAL Session 6.md",
     "CSE 302 Data Structures/CSE 302 8-28-2024 PAL Session 4.md",
-    "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
     "CSE 335 Database/CSE 335 Lecture 6 - Normal Forms.md",
     "CSE 335 Database/CSE 335 Lecture 5 - Functional Dependencies.md",
     "CSE 302 Data Structures",
