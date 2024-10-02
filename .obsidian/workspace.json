@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a0fc40aaa0726b1f",
+        "id": "b5ff79d13c9fe034",
         "type": "tabs",
         "children": [
           {
-            "id": "194fe82bd41c0837",
+            "id": "3a262ec14214568f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 12 - Data Types in SQL.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ad4d4d923cf203fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fa34eac44262314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8-25-2024 Problem of The Fortnight UofL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c69a155a5362cad",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/cse302 stack.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +53,7 @@
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -104,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5,
+    "collapsed": true
   },
   "right": {
     "id": "6c34c01e3d68474e",
@@ -120,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8-25-2024 Problem of The Fortnight UofL.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 12 - Data Types in SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8-25-2024 Problem of The Fortnight UofL.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 12 - Data Types in SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-25-2024 Problem of The Fortnight UofL.md"
+                "file": "CSE 335 Database/CSE 335 Lecture 12 - Data Types in SQL.md"
               }
             }
           },
@@ -215,38 +181,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fa34eac44262314",
+  "active": "3a262ec14214568f",
   "lastOpenFiles": [
+    "CSE 335 Database/CSE 335 Lecture 6 - Normal Forms.md",
+    "CSE 335 Database/CSE 335 Lecture 12 - Data Types in SQL.md",
+    "CSE 335 Database/CSE 335 Lecture 7 - Boyce-Codd Form.md",
+    "Data Structures and Algorithms/Depth First Search Tree Traversal.md",
+    "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md",
+    "Data Structures and Algorithms/Queue.md",
+    "Data Structures and Algorithms/C++ STL Library.md",
+    "Data Structures and Algorithms/Doubly Linked Lists.md",
+    "CSE 335 Database/CSE 335 Lecture 9 - Web and Database Integration.md",
+    "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
+    "CSE 335 Database/CSE 335 Lecture 1 - Introduction.md",
+    "CSE 335 Database/CSE 335 Lecture 2 - Database Design Using the E-R Model.md",
+    "CSE 335 Database/CSE 335 Lecture 3 - Relational Models.md",
+    "CSE 335 Database/CSE 335 Lecture 4 - Special Relationships in ER Diagrams.md",
+    "CSE 335 Database/CSE 335 Lecture 5 - Functional Dependencies.md",
+    "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
+    "Data Structures and Algorithms/Map (Dictionary).md",
+    "Data Structures and Algorithms/Linked List Contact Book Implementation.md",
+    "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
+    "8-25-2024 Problem of The Fortnight UofL.md",
     "Excalidraw/cse302 queue.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
     "First Note and Tutorial/Jesus Christ is our Lord and Savior!.md",
     "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
-    "CSE 302 Data Structures/CSE 302 9-18-2024 Session 12.md",
     "CSE 302 Data Structures/CSE 302 9-11-2024 PAL Session 9.md",
     "CSE 302 Data Structures/CSE 302 9-9-2024 PAL Session 8.md",
-    "CSE 302 Data Structures/CSE 302 9-6-2024 PAL Session 7.md",
-    "Excalidraw/cse302 stack.md",
-    "CSE 302 Data Structures/CSE 302 9-13-2024 PAL Session 10.md",
-    "CSE 335 Database/CSE 335 Lecture 10 - Intro to SQL.md",
-    "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
-    "CSE 412 Embedded Sysem/CSE 412 Lecture 7 - Subroutines and Stack.md",
-    "CSE 412 Embedded Sysem/CSE 412 Lecture 6 - Math on Microcontrollers.md",
     "CSE 302 Data Structures/assets/cse 302_ review worksheet 9_16_93.pdf",
-    "CSE 335 Database/CSE 335 Lecture 9 - Web and Database Integration.md",
-    "CSE 335 Database/CSE 335 Lecture 8 - Web Development Process.md",
-    "CSE 412 Embedded Sysem/CSE 412 Lecture 4 - Debugging.md",
-    "Data Structures and Algorithms/C++ STL Library.md",
-    "Excalidraw/Drawing 2024-09-11 15.16.52.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-11 11.08.18.excalidraw.md",
     "Excalidraw",
-    "CSE 335 Database/CSE 335 Lecture 7 - Boyce-Codd Form.md",
     "CSE 302 Data Structures/assets/CSE 302_ Review Worksheet 9_9.pdf",
     "CSE 302 Data Structures/assets",
-    "CSE 302 Data Structures/CSE 302 8-26-2024 PAL Session.md",
-    "CSE 302 Data Structures/CSE 302 9-4-2024 PAL Session 6.md",
-    "CSE 302 Data Structures/CSE 302 8-28-2024 PAL Session 4.md",
-    "CSE 335 Database/CSE 335 Lecture 6 - Normal Forms.md",
-    "CSE 335 Database/CSE 335 Lecture 5 - Functional Dependencies.md",
     "CSE 302 Data Structures",
     "CSE 335 Database/assets/Pasted image 20240904110918.png",
     "Project X",

@@ -27,7 +27,8 @@ void printTreePreorder(TreeNode* node) {
     cout << node->data << ", ";
     printTreePreorder(node->left); //DFS:invoke printTree but pass in the left child of node, continue until nullptr
     printTreePreorder(node->right);
-    cout << endl;
+    cout << endl
+    ;
 }
 ```
 #### Inorder
