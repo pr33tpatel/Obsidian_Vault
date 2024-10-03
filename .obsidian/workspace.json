@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 12 - Data Types in SQL.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 - Serial Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 12 - Data Types in SQL.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 - Serial Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 12 - Data Types in SQL.md",
+                "file": "CSE 412 Embedded Sysem/CSE 412 - Serial Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 12 - Data Types in SQL.md"
+                "file": "CSE 412 Embedded Sysem/CSE 412 - Serial Communication.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "3a262ec14214568f",
   "lastOpenFiles": [
-    "CSE 335 Database/CSE 335 Lecture 6 - Normal Forms.md",
     "CSE 335 Database/CSE 335 Lecture 12 - Data Types in SQL.md",
+    "CSE 412 Embedded Sysem/CSE 412 - Serial Communication.md",
+    "CSE 335 Database/CSE 335 Lecture 6 - Normal Forms.md",
     "CSE 335 Database/CSE 335 Lecture 7 - Boyce-Codd Form.md",
     "Data Structures and Algorithms/Depth First Search Tree Traversal.md",
     "Data Structures and Algorithms/Hashing Theory, Hashmaps, and Hashsets.md",
@@ -208,7 +209,6 @@
     "First Note and Tutorial/Jesus Christ is our Lord and Savior!.md",
     "CSE 302 Data Structures/CSE 302 9-16-2024 Session 11.md",
     "CSE 302 Data Structures/CSE 302 9-11-2024 PAL Session 9.md",
-    "CSE 302 Data Structures/CSE 302 9-9-2024 PAL Session 8.md",
     "CSE 302 Data Structures/assets/cse 302_ review worksheet 9_16_93.pdf",
     "Excalidraw",
     "CSE 302 Data Structures/assets/CSE 302_ Review Worksheet 9_9.pdf",
