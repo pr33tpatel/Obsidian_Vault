@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 13 - SQL Queries.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 14 - SQL Joins and Aggregation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 13 - SQL Queries.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 14 - SQL Joins and Aggregation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 13 - SQL Queries.md",
+                "file": "CSE 335 Database/CSE 335 Lecture 14 - SQL Joins and Aggregation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 13 - SQL Queries.md"
+                "file": "CSE 335 Database/CSE 335 Lecture 14 - SQL Joins and Aggregation.md"
               }
             }
           },
@@ -183,6 +183,8 @@
   },
   "active": "164b7fb41b791ed1",
   "lastOpenFiles": [
+    "CSE 335 Database/CSE 335 Lecture 14 - SQL Joins and Aggregation.md",
+    "CSE 335 Database/assets/Pasted image 20241009110626.png",
     "CSE 335 Database/CSE 335 Lecture 13 - SQL Queries.md",
     "CSE 412 Embedded Sysem/CSE 412 - Serial Communication.md",
     "explaining r6 to thu.md",
@@ -207,8 +209,6 @@
     "ECE 510 Computer Design/ECE 510 Computer Design - 1.2 Digital Circuit Design.md",
     "8-25-2024 Problem of The Fortnight UofL.md",
     "Excalidraw/cse302 queue.md",
-    "First Note and Tutorial/Jesus Christ is our Lord and Savior.md",
-    "First Note and Tutorial/Jesus Christ is our Lord and Savior!.md",
     "CSE 302 Data Structures/assets/cse 302_ review worksheet 9_16_93.pdf",
     "Excalidraw",
     "CSE 302 Data Structures/assets/CSE 302_ Review Worksheet 9_9.pdf",
@@ -228,7 +228,6 @@
     "ECE 510 Computer Design/assets/Pasted image 20240819185537.png",
     "ECE 510 Computer Design/assets/Pasted image 20240819184951.png",
     "ECE 510 Computer Design/assets/Pasted image 20240819182016.png",
-    "ECE 510 Computer Design/assets/Pasted image 20240819180751.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
