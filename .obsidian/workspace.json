@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f63ca21e4e8c9f9e",
+        "id": "47b013cfb5920a1c",
         "type": "tabs",
         "children": [
           {
-            "id": "164b7fb41b791ed1",
+            "id": "7d2649a5585823ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 14 - SQL Joins and Aggregation.md",
+                "file": "CSE 302 Data Structures/CSE 302 10-9-2024 Session 19.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 14 - SQL Joins and Aggregation.md",
+                "file": "CSE 302 Data Structures/CSE 302 10-9-2024 Session 19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 14 - SQL Joins and Aggregation.md",
+                "file": "CSE 302 Data Structures/CSE 302 10-9-2024 Session 19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 335 Database/CSE 335 Lecture 14 - SQL Joins and Aggregation.md"
+                "file": "CSE 302 Data Structures/CSE 302 10-9-2024 Session 19.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "164b7fb41b791ed1",
+  "active": "7d2649a5585823ce",
   "lastOpenFiles": [
+    "CSE 302 Data Structures/CSE 302 10-9-2024 Session 19.md",
     "CSE 335 Database/CSE 335 Lecture 14 - SQL Joins and Aggregation.md",
     "CSE 335 Database/assets/Pasted image 20241009110626.png",
     "CSE 335 Database/CSE 335 Lecture 13 - SQL Queries.md",
